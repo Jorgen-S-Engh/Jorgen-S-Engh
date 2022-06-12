@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 <img align="left" width="47%" src="(https://github-readme-stats.vercel.app/api?username=Jorgen-S-Engh&count_private=true&show_icons=true&theme=dark"/>
 <img align="left" width="47%" src="([https://github-readme-stats.vercel.app/api?username=Jorgen-S-Engh&count_private=true&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgen-S-Engh&show_icons=true&theme=dark)"/>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Jorgen-S-Engh&count_private=true&show_icons=true&theme=dark)
-
-![Top Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgen-S-Engh&show_icons=true&theme=dark)
 
 <h2 align="left">My Skills:</h2>
     <p align="center">
