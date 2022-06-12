@@ -19,3 +19,9 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Jorgen-S-Engh&count_private=true&show_icons=true&theme=radical)
 
 ![Top Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgen-S-Engh&show_icons=true&theme=radical)
+
+<h2 align="left">My Skills:</h2>
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,figma,github,ai,ps,netlify,vscode" />
+  </a>
