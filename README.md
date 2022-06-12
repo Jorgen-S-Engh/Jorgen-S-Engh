@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
  -->
 
-<p align="center"><a class="button" href="https://iridescent-kitten-60cca2.netlify.app/">My Portfolio</a></p>
+<p align="center"><a class="button" href="https://singular-narwhal-a905a6.netlify.app/">My Portfolio</a></p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Jorgen-S-Engh&count_private=true&show_icons=true&theme=radical)
 
