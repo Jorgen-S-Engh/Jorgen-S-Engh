@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Jorgen-S-Engh&count_private=true&show_icons=true&theme=radical)
+
+![Top Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgen-S-Engh&show_icons=true&theme=radical)
