@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, i'm Jørgen 👋
 
 <!-- **Jorgen-S-Engh/Jorgen-S-Engh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 
 <p align="center"><a class="button" href="https://singular-narwhal-a905a6.netlify.app/">My Portfolio</a></p>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Jorgen-S-Engh&count_private=true&show_icons=true&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Jorgen-S-Engh&count_private=true&show_icons=true&theme=dark)
 
-![Top Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgen-S-Engh&show_icons=true&theme=radical)
+![Top Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgen-S-Engh&show_icons=true&theme=dark)
 
 <h2 align="left">My Skills:</h2>
     <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,figma,github,ai,ps,netlify,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,github,ps,netlify,vscode,figma" />
   </a>
