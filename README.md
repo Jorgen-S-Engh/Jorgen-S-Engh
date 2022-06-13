@@ -25,7 +25,7 @@ I am finishing a two year higher professional degree in frontend-development. I 
  <img class="img" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Jorgen-S-Engh&show_icons=true&theme=dracula" />
  <img class="img" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgen-S-Engh&theme=dracula&layout=compact" />
 </div>
-<br>
+
 <br>
 <hr>
 
