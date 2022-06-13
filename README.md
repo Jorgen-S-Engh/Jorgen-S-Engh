@@ -21,14 +21,10 @@ Here are some ideas to get you started:
  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorgen-S-Engh&show_icons=true&theme=dark" />
 </div>
 
-
-
-
-
-
-
 <h2 align="left">My Skills:</h2>
     <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,github,ps,netlify,vscode,figma" />
   </a>
+
+  <h2>Testy</h2>
