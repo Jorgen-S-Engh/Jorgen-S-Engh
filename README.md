@@ -1,6 +1,27 @@
 ### Hi there, i'm Jørgen 👋
 
-I am finishing a two year higher professional degree in frontend-development. I have a master degree in political science, and was working as IT manager prior to my frontend studies. I am really interested in coding, and especially web development and I want to expand my knowledge in the webstack. Feel free to check out my portfolio, and contact me regarding anything.   
+Armed with a Master's degree in Political Science, I unexpectedly found myself drawn towards the world of Frontend Development. In 2023, I completed a Higher Professional Degree in this field, marking an exciting shift in my career trajectory.
+
+Prior to this transition, I worked as an IT Manager. This role gave me a glimpse into the technical landscape and nudged me towards coding and web development - a field that I've grown to appreciate greatly.
+
+I now have the opportunity to work as a Developer at Telenor, a leading telecom company. Every day, I learn something new, and I'm constantly amazed by the intricacies of web development. As I continue to grow in this field, I strive to broaden my understanding of the web stack.
+
+I invite you to peruse my portfolio, which showcases some of my work in this journey. Should you have any questions or if you're interested in connecting or collaborating, please don't hesitate to reach out.
+
+
+
+
+
+User
+great thanks
+ChatGPT
+You're welcome! If you have any more questions or need further assistance, feel free to ask. Good luck with your portfolio and your career in frontend development!
+
+
+
+
+
+
 
 <hr>
 
