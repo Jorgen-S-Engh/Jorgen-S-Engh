@@ -11,12 +11,12 @@ I am finishing a two year higher professional degree in frontend-development. I 
   <h2 align="center">Experience with:</h2>
       <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,python,github,ps,netlify,vscode,figma" />
+      <img src="https://skillicons.dev/icons?i=html,css,reactjs,python,github,ps,netlify,vscode,figma" />
     </a>
     <br>
     <br>
     <h2 align="center">Currently learning:</h2>
-     <img src="https://skillicons.dev/icons?i=react,nextjs" />
+     <img src="https://skillicons.dev/icons?i=nextjs" />
 </div>
 <hr>
 
