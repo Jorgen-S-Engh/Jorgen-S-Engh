@@ -11,7 +11,7 @@ I am finishing a two year higher professional degree in frontend-development. I 
   <h2 align="center">Experience with:</h2>
       <br>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,reactjs,python,github,ps,netlify,vscode,figma" />
+      <img src="https://skillicons.dev/icons?i=html,css,react,js,python,github,ps,netlify,vscode,figma" />
     </a>
     <br>
     <br>
