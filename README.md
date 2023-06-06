@@ -8,21 +8,6 @@ I now have the opportunity to work as a Developer at Telenor, a leading telecom 
 
 I invite you to peruse my portfolio, which showcases some of my work in this journey. Should you have any questions or if you're interested in connecting or collaborating, please don't hesitate to reach out.
 
-
-
-
-
-User
-great thanks
-ChatGPT
-You're welcome! If you have any more questions or need further assistance, feel free to ask. Good luck with your portfolio and your career in frontend development!
-
-
-
-
-
-
-
 <hr>
 
 <p align="center"><a href="https://singular-narwhal-a905a6.netlify.app/">My Portfolio</a></p>
