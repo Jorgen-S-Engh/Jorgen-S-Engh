@@ -10,7 +10,7 @@ I invite you to peruse my portfolio, which showcases some of my work in this jou
 
 <hr>
 
-<p align="center"><a href="https://singular-narwhal-a905a6.netlify.app/">My Portfolio</a></p>
+<p align="center"><a href="https://jorgenwe.no/">My Portfolio</a></p>
 <hr>
 
 <div>
